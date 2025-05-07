@@ -17,7 +17,7 @@ const Page = () => {
           I also make the website more & more interactive with web animations.
           A responsive design makes your website accessible to all users, regardless of their device.
         </p>
-        <button type="button">Let's Talk</button>
+       <a href="https:wa.me/09160686377"> <button type="button">Let's Talk</button></a>
       </div>
     </div>
   );

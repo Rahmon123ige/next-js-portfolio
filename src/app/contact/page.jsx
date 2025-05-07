@@ -5,7 +5,7 @@ const page = () => {
     <div>
        <div class="contact-me">
         <p>Let ME Get You A Beautiful Website.</p>
-        <a href="#" class="button-two">Hire Me</a>
+        <a href="https:wa.me/09160686377" class="button-two">Hire Me</a>
     </div>
     </div>
   )
